@@ -24,11 +24,11 @@
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "22968791"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "3ec937d498deb68e7c2a2576a8e09c8d"
     },
     "AUTH_USERS": {
       "description": "Telegram ID of authorized users. left it empty to make it public.",
@@ -37,7 +37,7 @@
     },
     "OWNER_ID": {
       "description": "Telegram ID of the owner.",
-      "value": "",
+      "value": "7999704377",
       "required": false
     },
     "DUMP_ID": {
